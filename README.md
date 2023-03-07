@@ -1,7 +1,7 @@
-## Custom Text Reader
+# Custom Text Reader 📖
 This is a simple program written in C# that reads a text file and separates the sentences based on the language rules of English, Portuguese, Spanish and German.
 
-# Usage
+## Usage ⌨️
 To use this program, follow these steps:
 
 Clone this repository or download the code files.
@@ -12,21 +12,21 @@ Select the sorting order for the sentences - by sequence or by length (min or ma
 The program will then display the separated sentences and the average number of characters in text.
 Filter a word usind the field "Word Filter"
 
-# Supported Languages
+## Supported Languages 🛫
 This program currently supports the following languages for sentence separation:
 
-English
-Portuguese
+English 
+Portuguese 
 Spanish
 German
 
-# Sorting Options
+## Sorting Options 🎲
 The program allows you to sort the separated sentences by two options:
 
 Sequence: The order of the sentences will be maintained as in the original text.
 Length: The sentences will be sorted by length of characters, either in ascending or descending order.
 
-# Example Usage
+## Example Usage ✍🏼
 Suppose you have the following text:
 
 "This is a sample text. It contains multiple sentences. Can you separate them?"
