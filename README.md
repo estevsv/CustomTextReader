@@ -5,8 +5,9 @@ This is a simple program written in C# that reads a text file and separates the 
 To use this program, follow these steps:
 
 Clone this repository or download the code files.
-Build and run the program in Visual Studio or any other C# IDE. (you can just execute the .exe in main path)
-When prompted, enter text you want to analyze in input space.
+Build and run the program in Visual Studio or any other C# IDE.
+You can build and execute the .exe in bin>Debug or execute with IDE
+Enter text you want to analyze in input space.
 Select the language rule you want to use for separating the sentences.
 Select the sorting order for the sentences - by sequence or by length (min or max) of characters.
 The program will then display the separated sentences and the average number of characters in text.
